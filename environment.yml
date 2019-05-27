@@ -2,11 +2,13 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
+  - numpy==1.16.*
+  - matplotlib==3.*
+  - seaborn==0.8.1
+  - pandas
+  - cufflinks
+  
   - python
-  - numpy
   - pip
   - pip:
-    - nbgitpuller
-    - sphinx-gallery
-    - pandas
-    - matplotlib
+    - rpy2
