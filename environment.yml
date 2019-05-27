@@ -7,7 +7,6 @@ dependencies:
   - seaborn==0.8.1
   - pandas
   - cufflinks
-  
   - python
   - pip
   - pip:
