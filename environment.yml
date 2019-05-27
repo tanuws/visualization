@@ -10,4 +10,5 @@ dependencies:
   - python
   - pip
   - pip:
+    - cufflinks==0.12.1
     - rpy2
