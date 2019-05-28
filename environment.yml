@@ -2,12 +2,10 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - numpy==1.16.*
-  - matplotlib==3.*
-  - seaborn==0.8.1
-  - pandas
   - python
   - plotly
   - pip
   - pip:
     - rpy2
+    - -r requirements.txt
+    
