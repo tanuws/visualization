@@ -7,5 +7,6 @@ dependencies:
   - pip
   - pip:
     - rpy2
+    - rpy2.robjects
     - -r requirements.txt
     
