@@ -2,11 +2,10 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - python
-  - plotly
+  - plotly==3.7.*
   - pip
   - pip:
-    - rpy2
+    - rpy2==2.9.*
     - tzlocal
     - -r requirements.txt
     
