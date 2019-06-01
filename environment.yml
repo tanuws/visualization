@@ -8,5 +8,6 @@ dependencies:
   - pip:
     - rpy2==2.9.*
     - tzlocal
+    - simplegeneric
     - -r requirements.txt
     
