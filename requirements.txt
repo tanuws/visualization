@@ -161,7 +161,6 @@ scipy==1.2.*
 seaborn==0.9.*  
 Send2Trash==1.5.* 
 service-identity==18.1.* 
-simplegeneric==0.8.*
 singledispatch==3.4.0.* 
 sip==4.19.*
 six==1.12.*  
