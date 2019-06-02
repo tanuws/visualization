@@ -6,7 +6,6 @@ dependencies:
   - plotly==3.7.*
   - pip
   - pip:
-    - rpy2==2.9.*
     - tzlocal
     - simplegeneric
     - -r requirements.txt
