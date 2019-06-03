@@ -24,7 +24,6 @@ numpydoc==0.8.*
 pandoc-attributes==0.1.* 
 pandocfilters==1.4.*
 pivottablejs==0.9.*
-plotly==3.7.* 
 ply==3.*
 py==1.7.*
 pytest==4.0.*  
