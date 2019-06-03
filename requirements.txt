@@ -1,4 +1,4 @@
-conda-build==3.17.6 
+conda-build==3.17.*
 cufflinks==0.15 
 ggplot==0.11.5 
 glob2==0.6
