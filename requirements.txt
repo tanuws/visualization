@@ -13,7 +13,7 @@ jupyterlab-launcher==0.13.1
 jupyterlab-server==0.2.0  
 matplotlib==3.0.3 
 nbconvert==5.4.0   
-notebook==5.7.4   
+notebook==5.7.8   
 numpy==1.16.2  
 numpydoc==0.8.0  
 pandas==0.24.2  
