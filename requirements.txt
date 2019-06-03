@@ -15,7 +15,6 @@ jupyterlab==0.35.*
 jupyterlab-launcher==0.13.*
 jupyterlab-server==0.2.*
 libarchive-c==2.*
-navigator-updater==0.2.*
 nbconvert==5.4.* 
 notebook==5.7.* 
 notedown==1.5.*  
