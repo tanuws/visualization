@@ -1,5 +1,4 @@
 conda
-conda-build==3.17.* 
 ggplot==0.11.* 
 glob2==0.*
 gmpy2==2.0.* 
